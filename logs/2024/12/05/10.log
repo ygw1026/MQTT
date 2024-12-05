@@ -438,3 +438,13 @@ Subscribing to topic: data/#
 Type 'exit' to disconnect...
 2024-12-05 10:51:08 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
 Connection lost: MqttException
+2024-12-05 10:55:50 [main] INFO  com.example.Main - 
+Connecting to broker...
+2024-12-05 10:55:51 [main] INFO  com.example.Main - 
+Connected to broker!
+2024-12-05 10:55:51 [main] INFO  com.example.Main - 
+Subscribing to topic: data/#
+2024-12-05 10:55:51 [main] INFO  com.example.Main - 
+Type 'exit' to disconnect...
+2024-12-05 10:56:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Connection lost: MqttException

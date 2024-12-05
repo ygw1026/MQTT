@@ -1,0 +1,910 @@
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/battery
+Value: 48
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/distance
+Value: 2276
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/occupancy
+Value: 0
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -103
+snr: -15.2
+channel: 5
+frequency: 923100000
+sf: 12
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/distance
+Value: 2276
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/occupancy
+Value: 0
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/battery
+Value: 48
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -53
+snr: 9.8
+frequency: 922100000
+sf: 12
+
+2024-12-05 17:00:09 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -41
+snr: 9.5
+frequency: 922100000
+sf: 12
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/temperature
+Value: 22
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/pressure
+Value: 1007.4
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/infrared_and_visible
+Value: 47
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/co2
+Value: 1381
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/infrared
+Value: 7
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/tvoc
+Value: 188
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/humidity
+Value: 33.5
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/illumination
+Value: 69
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/activity
+Value: 0
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -72
+snr: 12.8
+channel: 4
+frequency: 922900000
+sf: 10
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -55
+snr: 14
+channel: 4
+frequency: 922900000
+sf: 10
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/e/temperature
+Value: 21.2
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -54
+snr: 9.2
+channel: 1
+frequency: 922300000
+sf: 10
+
+2024-12-05 17:00:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -50
+snr: 8.5
+channel: 1
+frequency: 922300000
+sf: 10
+
+2024-12-05 17:00:20 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/battery
+Value: 1
+
+2024-12-05 17:00:20 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/temperature
+Value: 20.5
+
+2024-12-05 17:00:20 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/humidity
+Value: 33
+
+2024-12-05 17:00:20 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -58
+snr: 9.5
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:20 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -56
+snr: 9.5
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/humidity
+Value: 32
+
+2024-12-05 17:00:35 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/temperature
+Value: 19.2
+
+2024-12-05 17:00:35 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -54
+snr: 8.5
+channel: 3
+frequency: 922700000
+sf: 12
+
+2024-12-05 17:00:35 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -47
+snr: 7.5
+channel: 3
+frequency: 922700000
+sf: 12
+
+2024-12-05 17:00:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/battery
+Value: 12
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/temperature
+Value: 24.1
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/humidity
+Value: 28.5
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -69
+snr: 5.8
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -44
+snr: 8.8
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/e/humidity
+Value: 25
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/e/temperature
+Value: 24.4
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -44
+snr: 7
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -46
+snr: 7.8
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/co2
+Value: 842
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/battery
+Value: 1
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/temperature
+Value: 20.6
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/humidity
+Value: 32.5
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -70
+snr: 14.2
+channel: 3
+frequency: 922700000
+sf: 10
+
+2024-12-05 17:00:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -76
+snr: 12.8
+channel: 3
+frequency: 922700000
+sf: 10
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/e/humidity
+Value: 42
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/e/co2
+Value: 1551
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/e/temperature
+Value: 20.6
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/e/pressure
+Value: 1015
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -75
+snr: 9
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -56
+snr: 9
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/campus/d/gem3500_1/n/캠퍼스_LL/e/voltage
+Value: 384.93
+
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/campus/d/gem3500_1/n/캠퍼스_LN/e/voltage
+Value: 222.24
+
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648348,"type":5,"leakageCurrent":0,"current":2556,"activePower":4777,"reactivePower":-1513,"tapparentPower":5685,"powerFactor":84.03,"currentUnbalance":48.93,"lines":[]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648449,"type":3,"leakageCurrent":0,"current":879,"activePower":1681,"reactivePower":-422,"tapparentPower":1950,"powerFactor":86.2,"currentUnbalance":0,"lines":[{"voltage":221.54,"current":8.79,"activePower":1681,"reactivePower":-422,"tapparentPower":1950,"voltageUnbalance":0,"currentUnbalance":0,"phase":349.95,"powerFactor":86.2}]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648550,"type":1,"leakageCurrent":0,"current":532,"activePower":1064,"reactivePower":-271,"tapparentPower":1186,"powerFactor":89.67,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648650,"type":2,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648751,"type":3,"leakageCurrent":0,"current":56,"activePower":62,"reactivePower":-26,"tapparentPower":132,"powerFactor":47.27,"currentUnbalance":0,"lines":[{"voltage":221.44,"current":0.56,"activePower":62,"reactivePower":-26,"tapparentPower":132,"voltageUnbalance":0,"currentUnbalance":0,"phase":319.79,"powerFactor":47.27}]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648850,"type":1,"leakageCurrent":0,"current":246,"activePower":430,"reactivePower":-281,"tapparentPower":554,"powerFactor":77.48,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385648950,"type":2,"leakageCurrent":0,"current":220,"activePower":374,"reactivePower":-276,"tapparentPower":494,"powerFactor":75.72,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649052,"type":3,"leakageCurrent":0,"current":45,"activePower":24,"reactivePower":-88,"tapparentPower":100,"powerFactor":23.8,"currentUnbalance":0,"lines":[{"voltage":221.45,"current":0.45,"activePower":24,"reactivePower":-88,"tapparentPower":100,"voltageUnbalance":0,"currentUnbalance":0,"phase":284.06,"powerFactor":23.8}]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649153,"type":1,"leakageCurrent":0,"current":27,"activePower":7,"reactivePower":-57,"tapparentPower":60,"powerFactor":12,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649253,"type":2,"leakageCurrent":0,"current":14,"activePower":4,"reactivePower":-28,"tapparentPower":31,"powerFactor":15.38,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649354,"type":3,"leakageCurrent":0,"current":210,"activePower":408,"reactivePower":-112,"tapparentPower":470,"powerFactor":86.73,"currentUnbalance":0,"lines":[{"voltage":221.45,"current":2.1,"activePower":408,"reactivePower":-112,"tapparentPower":470,"voltageUnbalance":0,"currentUnbalance":0,"phase":343.78,"powerFactor":86.73}]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649455,"type":1,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649556,"type":2,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649656,"type":3,"leakageCurrent":0,"current":118,"activePower":136,"reactivePower":-62,"tapparentPower":264,"powerFactor":51.81,"currentUnbalance":0,"lines":[{"voltage":221.42,"current":1.18,"activePower":136,"reactivePower":-62,"tapparentPower":264,"voltageUnbalance":0,"currentUnbalance":0,"phase":323.51,"powerFactor":51.81}]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649755,"type":3,"leakageCurrent":0,"current":29,"activePower":7,"reactivePower":-62,"tapparentPower":64,"powerFactor":11.11,"currentUnbalance":0,"lines":[{"voltage":221.43,"current":0.29,"activePower":7,"reactivePower":-62,"tapparentPower":64,"voltageUnbalance":0,"currentUnbalance":0,"phase":278.32,"powerFactor":11.11}]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649857,"type":1,"leakageCurrent":0,"current":94,"activePower":134,"reactivePower":160,"tapparentPower":211,"powerFactor":63.63,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/e/illumination
+Value: 5380
+
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -52
+snr: 10
+channel: 6
+frequency: 923300000
+sf: 10
+
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -63
+snr: 4.2
+channel: 6
+frequency: 923300000
+sf: 10
+
+2024-12-05 17:00:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385649958,"type":2,"leakageCurrent":0,"current":5,"activePower":2,"reactivePower":-7,"tapparentPower":12,"powerFactor":20,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650057,"type":3,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[{"voltage":221.56,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"voltageUnbalance":0,"currentUnbalance":0,"phase":0,"powerFactor":0}]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650160,"type":1,"leakageCurrent":0,"current":70,"activePower":93,"reactivePower":124,"tapparentPower":158,"powerFactor":59.09,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650258,"type":2,"leakageCurrent":0,"current":67,"activePower":88,"reactivePower":-40,"tapparentPower":151,"powerFactor":58.73,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650361,"type":3,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[{"voltage":221.49,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"voltageUnbalance":0,"currentUnbalance":0,"phase":0,"powerFactor":0}]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650460,"type":1,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650560,"type":2,"leakageCurrent":0,"current":214,"activePower":235,"reactivePower":-24,"tapparentPower":475,"powerFactor":49.49,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:00:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385650660,"type":3,"leakageCurrent":0,"current":17,"activePower":14,"reactivePower":-24,"tapparentPower":38,"powerFactor":37.49,"currentUnbalance":0,"lines":[{"voltage":221.5,"current":0.17,"activePower":14,"reactivePower":-24,"tapparentPower":38,"voltageUnbalance":0,"currentUnbalance":0,"phase":291.09,"powerFactor":37.49}]}
+2024-12-05 17:00:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/distance
+Value: 2224
+
+2024-12-05 17:00:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/battery
+Value: 74
+
+2024-12-05 17:00:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/occupancy
+Value: 0
+
+2024-12-05 17:00:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -43
+snr: 6.8
+channel: 5
+frequency: 923100000
+sf: 12
+
+2024-12-05 17:00:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -59
+snr: 7.2
+channel: 5
+frequency: 923100000
+sf: 12
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/battery
+Value: 48
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/occupancy
+Value: 0
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/distance
+Value: 2278
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -43
+snr: 9.2
+channel: 6
+frequency: 923300000
+sf: 12
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -53
+snr: 9.2
+channel: 6
+frequency: 923300000
+sf: 12
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/distance
+Value: 2278
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/occupancy
+Value: 0
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/e/battery
+Value: 48
+
+2024-12-05 17:01:14 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -101
+snr: -17.2
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/temperature
+Value: 22
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/infrared_and_visible
+Value: 47
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/illumination
+Value: 69
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/pressure
+Value: 1007.3
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/tvoc
+Value: 185
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/humidity
+Value: 33.5
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/activity
+Value: 8
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/co2
+Value: 1369
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/e/infrared
+Value: 7
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -54
+snr: 13
+frequency: 922100000
+sf: 10
+
+2024-12-05 17:01:17 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -71
+snr: 12.5
+frequency: 922100000
+sf: 10
+
+2024-12-05 17:01:18 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/e/temperature
+Value: 21.2
+
+2024-12-05 17:01:18 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -106
+snr: -11.5
+frequency: 922100000
+sf: 10
+
+2024-12-05 17:01:18 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/e/temperature
+Value: 21.2
+
+2024-12-05 17:01:18 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -51
+snr: 8.5
+channel: 5
+frequency: 923100000
+sf: 10
+
+2024-12-05 17:01:18 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -53
+snr: 10
+channel: 5
+frequency: 923100000
+sf: 10
+
+2024-12-05 17:01:21 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/battery
+Value: 1
+
+2024-12-05 17:01:21 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/temperature
+Value: 20.4
+
+2024-12-05 17:01:21 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/e/humidity
+Value: 33
+
+2024-12-05 17:01:21 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -59
+snr: 9.5
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:01:21 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -56
+snr: 9.2
+channel: 4
+frequency: 922900000
+sf: 12
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/temperature
+Value: 19.2
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/humidity
+Value: 32
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -52
+snr: 7.2
+channel: 6
+frequency: 923300000
+sf: 12
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -48
+snr: 7
+channel: 6
+frequency: 923300000
+sf: 12
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/humidity
+Value: 32
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/e/temperature
+Value: 19.2
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -112
+snr: -10.5
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:01:34 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -106
+snr: -18
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:01:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/humidity
+Value: 28.5
+
+2024-12-05 17:01:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/battery
+Value: 12
+
+2024-12-05 17:01:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/e/temperature
+Value: 24.2
+
+2024-12-05 17:01:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -45
+snr: 7.2
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:01:41 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -70
+snr: 6
+channel: 1
+frequency: 922300000
+sf: 12
+
+2024-12-05 17:01:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/e/humidity
+Value: 25
+
+2024-12-05 17:01:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/e/temperature
+Value: 24.5
+
+2024-12-05 17:01:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -43
+snr: 7.5
+channel: 5
+frequency: 923100000
+sf: 12
+
+2024-12-05 17:01:42 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -47
+snr: 7.5
+channel: 5
+frequency: 923100000
+sf: 12
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/temperature
+Value: 20.6
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/co2
+Value: 869
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/battery
+Value: 1
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/e/humidity
+Value: 32.5
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -69
+snr: 13.8
+channel: 4
+frequency: 922900000
+sf: 10
+
+2024-12-05 17:01:45 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -74
+snr: 12.2
+channel: 4
+frequency: 922900000
+sf: 10
+
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/campus/d/gem3500_1/n/캠퍼스_LL/e/voltage
+Value: 379.64
+
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/campus/d/gem3500_1/n/캠퍼스_LN/e/voltage
+Value: 219.18
+
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708349,"type":5,"leakageCurrent":0,"current":2593,"activePower":4767,"reactivePower":-1496,"tapparentPower":5687,"powerFactor":83.82,"currentUnbalance":49.39,"lines":[]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708449,"type":3,"leakageCurrent":0,"current":895,"activePower":1678,"reactivePower":-417,"tapparentPower":1957,"powerFactor":85.76,"currentUnbalance":0,"lines":[{"voltage":218.48,"current":8.95,"activePower":1678,"reactivePower":-417,"tapparentPower":1957,"voltageUnbalance":0,"currentUnbalance":0,"phase":350.2,"powerFactor":85.76}]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708550,"type":1,"leakageCurrent":0,"current":540,"activePower":1063,"reactivePower":-266,"tapparentPower":1188,"powerFactor":89.49,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708652,"type":2,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708752,"type":3,"leakageCurrent":0,"current":58,"activePower":60,"reactivePower":-24,"tapparentPower":129,"powerFactor":46.29,"currentUnbalance":0,"lines":[{"voltage":218.49,"current":0.58,"activePower":60,"reactivePower":-24,"tapparentPower":129,"voltageUnbalance":0,"currentUnbalance":0,"phase":323.26,"powerFactor":46.29}]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708852,"type":1,"leakageCurrent":0,"current":249,"activePower":437,"reactivePower":-278,"tapparentPower":559,"powerFactor":78.11,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:48 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385708950,"type":2,"leakageCurrent":0,"current":222,"activePower":367,"reactivePower":-271,"tapparentPower":485,"powerFactor":75.74,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709052,"type":3,"leakageCurrent":0,"current":45,"activePower":24,"reactivePower":-86,"tapparentPower":98,"powerFactor":24.39,"currentUnbalance":0,"lines":[{"voltage":218.47,"current":0.45,"activePower":24,"reactivePower":-86,"tapparentPower":98,"voltageUnbalance":0,"currentUnbalance":0,"phase":283.49,"powerFactor":24.39}]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709151,"type":1,"leakageCurrent":0,"current":26,"activePower":7,"reactivePower":-57,"tapparentPower":60,"powerFactor":12,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709253,"type":2,"leakageCurrent":0,"current":14,"activePower":4,"reactivePower":-28,"tapparentPower":31,"powerFactor":15.38,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709353,"type":3,"leakageCurrent":0,"current":212,"activePower":408,"reactivePower":-110,"tapparentPower":468,"powerFactor":87.17,"currentUnbalance":0,"lines":[{"voltage":218.44,"current":2.12,"activePower":408,"reactivePower":-110,"tapparentPower":468,"voltageUnbalance":0,"currentUnbalance":0,"phase":344.29,"powerFactor":87.17}]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709452,"type":1,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709552,"type":2,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709653,"type":3,"leakageCurrent":0,"current":120,"activePower":139,"reactivePower":-62,"tapparentPower":264,"powerFactor":52.72,"currentUnbalance":0,"lines":[{"voltage":218.36,"current":1.2,"activePower":139,"reactivePower":-62,"tapparentPower":264,"voltageUnbalance":0,"currentUnbalance":0,"phase":324.1,"powerFactor":52.72}]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709753,"type":3,"leakageCurrent":0,"current":29,"activePower":7,"reactivePower":-60,"tapparentPower":62,"powerFactor":11.53,"currentUnbalance":0,"lines":[{"voltage":218.37,"current":0.29,"activePower":7,"reactivePower":-60,"tapparentPower":62,"voltageUnbalance":0,"currentUnbalance":0,"phase":277.15,"powerFactor":11.53}]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709853,"type":1,"leakageCurrent":0,"current":93,"activePower":132,"reactivePower":153,"tapparentPower":206,"powerFactor":63.95,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:49 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385709953,"type":2,"leakageCurrent":0,"current":5,"activePower":4,"reactivePower":-7,"tapparentPower":14,"powerFactor":33.33,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710053,"type":3,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[{"voltage":218.44,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"voltageUnbalance":0,"currentUnbalance":0,"phase":0,"powerFactor":0}]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710153,"type":1,"leakageCurrent":0,"current":69,"activePower":91,"reactivePower":122,"tapparentPower":151,"powerFactor":60.31,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710252,"type":2,"leakageCurrent":0,"current":69,"activePower":88,"reactivePower":-40,"tapparentPower":153,"powerFactor":57.81,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710353,"type":3,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[{"voltage":218.44,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"voltageUnbalance":0,"currentUnbalance":0,"phase":0,"powerFactor":0}]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710453,"type":1,"leakageCurrent":0,"current":0,"activePower":0,"reactivePower":0,"tapparentPower":0,"powerFactor":0,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710554,"type":2,"leakageCurrent":0,"current":216,"activePower":232,"reactivePower":-26,"tapparentPower":475,"powerFactor":48.98,"currentUnbalance":0,"lines":[]}
+2024-12-05 17:01:50 [MQTT Call: JavaClientExample] WARN  com.example.MessageData - 
+Message does not contain a 'value' field: {"time":1733385710653,"type":3,"leakageCurrent":0,"current":17,"activePower":14,"reactivePower":-24,"tapparentPower":38,"powerFactor":37.49,"currentUnbalance":0,"lines":[{"voltage":218.36,"current":0.17,"activePower":14,"reactivePower":-24,"tapparentPower":38,"voltageUnbalance":0,"currentUnbalance":0,"phase":291.36,"powerFactor":37.49}]}
+2024-12-05 17:01:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/e/illumination
+Value: 5370
+
+2024-12-05 17:01:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora
+Value:
+dr: 2
+rssi: -58
+snr: 12.2
+channel: 6
+frequency: 923300000
+sf: 10
+
+2024-12-05 17:01:51 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora
+Value:
+dr: 2
+rssi: -53
+snr: 11
+channel: 6
+frequency: 923300000
+sf: 10
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/e/co2
+Value: 688
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/e/temperature
+Value: 24.5
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/e/pressure
+Value: 1014.8
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/e/humidity
+Value: 30.5
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -56
+frequency: 922100000
+sf: 12
+
+2024-12-05 17:01:53 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -43
+snr: 8.2
+frequency: 922100000
+sf: 12
+
+2024-12-05 17:01:56 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/occupancy
+Value: 0
+
+2024-12-05 17:01:56 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/battery
+Value: 74
+
+2024-12-05 17:01:56 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/e/distance
+Value: 2197
+
+2024-12-05 17:01:56 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora
+Value:
+dr: 0
+rssi: -44
+snr: 8.5
+channel: 6
+frequency: 923300000
+sf: 12
+
+2024-12-05 17:01:56 [MQTT Call: JavaClientExample] INFO  com.example.MessageData - 
+Topic: data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora
+Value:
+dr: 0
+rssi: -64
+snr: 9.2
+channel: 6
+frequency: 923300000
+sf: 12
+

@@ -22,21 +22,43 @@ public class InfluxDBService {
     }
 
     // InfluxDB에 데이터를 기록하는 메서드
-    public void writeToInfluxDB(String[] tagName, double value) {
+    public void writeToInfluxDB(String topic, double value) {
         try {
+            // 토픽을 '/' 기준으로 split
+            String[] topicParts = topic.split("/");
+
+            // InfluxDB 의 tag값이 될 데이터를 추출
+            String location = getTagValueFromTopic(topicParts, "p");
+            String kind = getTagValueFromTopic(topicParts, "n");
+            String data = getTagValueFromTopic(topicParts, "e");
+
+            // 로그로 출력하여 값이 제대로 추출되었는지 확인
+            logger.info("Extracted tagkey -> location: {}, kind: {}, data: {}\nValue into InfluxDB: {}", location, kind, data, value);
+
             Point point = Point.measurement("mqtt_measurement")
                     .addField("sensorValue", value)
-                    .addTag("location", tagName[0])
-                    .addTag("kind", tagName[1])
-                    .addTag("data", tagName[2])
+                    .addTag("location", location)
+                    .addTag("kind", kind)
+                    .addTag("data", data)
                     .time(System.currentTimeMillis(), WritePrecision.MS);
 
             WriteApiBlocking writeApi = influxclient.getWriteApiBlocking();
             writeApi.writePoint(bucket, org, point);
-            logger.info("Data written to InfluxDB with value: {}", value);
         } catch (Exception e) {
             logger.info("Error writing data to InfluxDB: {}", e.getMessage());
-            e.printStackTrace();
         }
+    }
+
+    // 토픽에서 특정 부분만 추출하는 메서드
+    private String getTagValueFromTopic(String[] topicParts, String key) {
+        for (int i = 0; i < topicParts.length; i++) {
+            if (topicParts[i].equals(key)) {
+                // 'key' 뒤의 값을 반환
+                if (i + 1 < topicParts.length) {
+                    return topicParts[i + 1];
+                }
+            }
+        }
+        return ""; // key가 없으면 빈 문자열 반환
     }
 }

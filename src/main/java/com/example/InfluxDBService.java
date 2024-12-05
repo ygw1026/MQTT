@@ -1,5 +1,8 @@
 package com.example;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import com.influxdb.client.InfluxDBClient;
 import com.influxdb.client.InfluxDBClientFactory;
 import com.influxdb.client.WriteApiBlocking;
@@ -7,6 +10,7 @@ import com.influxdb.client.domain.WritePrecision;
 import com.influxdb.client.write.Point;
 
 public class InfluxDBService {
+    static final Logger logger = LoggerFactory.getLogger(InfluxDBService.class);
 
     private InfluxDBClient influxclient;
     private String bucket = "fromjava";
@@ -29,9 +33,9 @@ public class InfluxDBService {
 
             WriteApiBlocking writeApi = influxclient.getWriteApiBlocking();
             writeApi.writePoint(bucket, org, point);
-            System.out.println("Data written to InfluxDB with value: " + value);
+            logger.info("Data written to InfluxDB with value: {}", value);
         } catch (Exception e) {
-            System.out.println("Error writing data to InfluxDB: " + e.getMessage());
+            logger.info("Error writing data to InfluxDB: {}", e.getMessage());
             e.printStackTrace();
         }
     }

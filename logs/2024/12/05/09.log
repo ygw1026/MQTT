@@ -1,0 +1,580 @@
+2024-12-05 09:38:03 [main] INFO  com.example.Main - 
+Connecting to broker...
+2024-12-05 09:38:03 [main] INFO  com.example.Main - 
+Connected to broker!
+2024-12-05 09:38:03 [main] INFO  com.example.Main - 
+Subscribing to topic: data/#
+2024-12-05 09:38:03 [main] INFO  com.example.Main - 
+Type 'exit' to disconnect...
+2024-12-05 09:38:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:18 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:18 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/meeting_room/d/24e124136d151836/n/안쪽벽 중앙/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/meeting_room/d/24e124136d151836/n/안쪽벽 중앙/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:32 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:32 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:32 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126c457594/n/냉장고 내부/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126c457594/n/냉장고 내부/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:38:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:38:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:16 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:16 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:33 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:33 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:33 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124128c140101/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124128c140101/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:39:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:39:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:19 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:19 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:34 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:34 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:40:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:47 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:52 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:40:52 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:01 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:01 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:19 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:19 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:26 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:26 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:34 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:34 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:44 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:53 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:53 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:41:58 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:41:58 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124141d181415/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:06 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:06 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:42:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:55 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:42:55 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:11 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/undefined/d/24e124141d223697/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/undefined/d/24e124141d223697/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:47 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:43:47 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:43:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:16 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:41 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124136d151485/n/안쪽 분리벽/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:50 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124136d151485/n/안쪽 분리벽/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:44:58 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:44:58 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:22 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:22 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:22 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:22 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:46 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:46 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:46 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:48 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:48 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:45:59 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:45:59 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:25 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:25 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:26 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:26 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:38 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:38 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:45 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:46:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:46:51 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:01 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:01 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:21 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:24 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:24 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:24 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126d152919/n/보드/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:31 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:38 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:38 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:43 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:43 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:46 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:46 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124725d081175/sp/8인 책상/n/8인 책상/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:48 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:48 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:48 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:52 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:52 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:54 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:54 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_b/d/24e124141d229168/n/출입문/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:47:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:47:56 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d157233/n/3/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:02 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126d111937/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:17 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124128c067999/sp/입구/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:20 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124785c389010/n/정수기 위/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/meeting_room/d/24e124136d151836/n/안쪽벽 중앙/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:23 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/meeting_room/d/24e124136d151836/n/안쪽벽 중앙/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:27 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:27 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/class_a/d/24e124126d152969/n/왼쪽 뒤/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:35 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/storage/d/24e124136d151547/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:36 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/pair_room/d/24e124617d159573/n/2/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126c457594/n/냉장고 내부/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:37 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124126c457594/n/냉장고 내부/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:39 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:39 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:39 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/hive/d/24e124126c452091/sp/farm/n/스마트팜/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/office/d/24e124785c384491/n/배전판 옆/g/24e124fffef79304/e/lora because it ends with 'lora'
+2024-12-05 09:48:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef5dccc/e/lora because it ends with 'lora'
+2024-12-05 09:48:42 [MQTT Call: JavaClientExample] INFO  com.example.Main - 
+Ignoring message from topic data/s/nhnacademy/b/gyeongnam_campus/p/server_room/d/24e124136d151368/n/입구/g/24e124fffef79304/e/lora because it ends with 'lora'

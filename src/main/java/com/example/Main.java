@@ -5,6 +5,11 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.example.mqtt.Config;
+import com.example.mqtt.ConnectService;
+import com.example.mqtt.InfluxDBService;
+import com.example.mqtt.MqttClientService;
+
 public class Main {
     static final Logger logger = LoggerFactory.getLogger(Main.class);
 

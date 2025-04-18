@@ -12,6 +12,7 @@ public class ChannelInfo {
     public int channel;
     public int address;
 
+
     // Getter and Setter
 
     public static List<ChannelInfo> loadChannelInfoFromJson(String filePath) throws IOException {
